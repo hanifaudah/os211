@@ -9,3 +9,6 @@ ZCZC W00 5 L05 GSGS
 ZCZC W00 90 L06 Reading References/Books/Documents
 ZCZC W01 90 Setup Debian VM
 ZCZC W01 10 GSGS
+ZCZC W01 20 L06 Reading slides
+ZCZC W01 120 L08 Belajar akses vm lewat ssh, run vm secara headless, belajar memakai vi
+ZCZC W01 120 GSGS Mengeksplor cara memakai linux 
