@@ -7,3 +7,5 @@ ZCZC W00 20 L21 Setup virtualbox
 ZCZC W00 100 L02 ZOOM
 ZCZC W00 5 L05 GSGS
 ZCZC W00 90 L06 Reading References/Books/Documents
+ZCZC W01 90 Setup Debian VM
+ZCZC W01 10 GSGS
