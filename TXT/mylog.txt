@@ -9,3 +9,4 @@ ZCZC W00 5 L05 GSGS
 ZCZC W00 90 L06 Reading References/Books/Documents
 ZCZC W01 90 Setup Debian VM
 ZCZC W01 10 GSGS
+ZCZC W01 100 ZOOM
