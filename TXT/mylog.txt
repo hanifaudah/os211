@@ -20,3 +20,5 @@ ZCZC W01 60 L05 GSGS: Mempelajari cara membuat script
 ZCZC W01 50 L10 Assignment: Add 4 more links
 ZCZC W01 180 L10 Assignment: Belajar scripting, mempelajari command-command bash
 ZCZC W01 50 L00 Assignment: Add navigation to gh-pages, learn vim
+ZCZC W02 5 L08 Trying new .bash_aliases 
+ZCZC W02 5 L06 Read slides 
