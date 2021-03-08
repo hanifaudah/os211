@@ -23,4 +23,4 @@ ZCZC W01 50 L00 Assignment: Add navigation to gh-pages, learn vim
 ZCZC W02 5 L08 Trying new .bash_aliases 
 ZCZC W02 5 L06 Read slides 
 ZCZC W02 50 L10 Assignment: Work on W02 checklist
-ZCZC W02 15 L08 Trying some scripts and adding them to .bash_aliases
+ZCZC W02 20 L08 Trying some scripts and adding them to .bash_aliases
