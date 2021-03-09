@@ -25,3 +25,4 @@ ZCZC W02 5 L06 Read slides
 ZCZC W02 50 L10 Assignment: Work on W02 checklist
 ZCZC W02 20 L08 Trying some scripts and adding them to .bash_aliases
 ZCZC W02 30 L00 Pop quiz
+ZCZC W02 107 L02 ZOOM
