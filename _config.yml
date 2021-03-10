@@ -1,2 +1,12 @@
-title: OS | Hanif Audah 
-description: Hello!
+title:       "OS | Hanif Audah"
+version:     "0001---10-Mar-2021"
+copyright:   "2021-2021"
+description: "Halo !" 
+author:           "Hanif Arkan Audah"
+address:          "Pamulang"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+github:           [metadata]
+
