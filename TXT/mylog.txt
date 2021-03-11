@@ -28,3 +28,4 @@ ZCZC W02 30 L00 Pop quiz
 ZCZC W02 107 L02 ZOOM
 ZCZC W02 70 L10 Assignment: Add favorite links
 ZCZC W02 20 L00 Fix gh-pages issues
+ZCZC W02 70 L10 Assignment: Add more favorite links
