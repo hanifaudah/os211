@@ -31,3 +31,6 @@ ZCZC W02 20 L00 Fix gh-pages issues
 ZCZC W02 70 L10 Assignment: Add more favorite links
 ZCZC W02 25 L08 Trying demos and sha256sum
 ZCZC W02 5 L10 Fix myrank.txt
+ZCZC W03 180 L10 Assignment
+ZCZC W03 100 L02 ZOOM
+ZCZC W03 120 L10 Assignment
