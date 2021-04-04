@@ -41,3 +41,8 @@ ZCZC W04 30 L10 Assignment
 ZCZC W04 80 L10 Assignment
 ZCZC W04 50 L10 Assignment
 ZCZC W04 50 L10 Assignment
+ZCZC W05 80 L02 ZOOM
+ZCZC W05 100 L10 Assignment
+ZCZC W05 35 L05 GSGS: Belajar handle image di bash
+ZCZC W05 60 L10 Assignment
+ZCZC W05 60 L05 GSGS
